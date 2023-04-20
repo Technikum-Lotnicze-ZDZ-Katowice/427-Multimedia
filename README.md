@@ -13,9 +13,12 @@
 
 ### II Przykladowe efekty
 
-1. Chorus
-2. Reverb
-3. 
+1. Equalizer
+2. Chorus
+3. Reverb
+4. Kompresor
+5. Limiter
+6. Delay
 
 042701 Zadanie 
 Zapętlij i umieść na stronie fragment ambientowego soundtracku (5 - 10 sekund)
