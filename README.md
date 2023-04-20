@@ -20,6 +20,9 @@
 5. Limiter
 6. Delay
 
+
+### III ZADANIA
+
 042701 Zadanie 
 Zapętlij i umieść na stronie fragment ambientowego soundtracku (5 - 10 sekund)
 
