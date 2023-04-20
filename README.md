@@ -22,3 +22,9 @@ Zapętlij i umieść na stronie fragment ambientowego soundtracku (5 - 10 sekund
 
 042702 Zadanie
 Nagraj tekst monologu dowolnym urządzeniem i dokonaj odszumienia (10 sek) - zapisz plik przed i po operacji
+
+
+### Tools
+1. Audacity (https://audacity.en.softonic.com/)
+2. FL Studio
+3. BTN Finder (https://vocalremover.org/key-bpm-finder)
