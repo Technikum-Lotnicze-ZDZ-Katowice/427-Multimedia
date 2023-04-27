@@ -34,3 +34,7 @@ Nagraj tekst monologu dowolnym urządzeniem i dokonaj odszumienia (10 sek) - zap
 1. Audacity (https://audacity.en.softonic.com/)
 2. FL Studio
 3. BTN Finder (https://vocalremover.org/key-bpm-finder)
+
+DAWID (google)
+WIKTOR (google, github)
+PRZEMEK (google)
