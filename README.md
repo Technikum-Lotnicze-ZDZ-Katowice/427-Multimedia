@@ -27,7 +27,7 @@
 Zapętlij i umieść na stronie fragment ambientowego soundtracku (5 - 10 sekund)
 
 042702 Zadanie
-Nagraj tekst monologu dowolnym urządzeniem i dokonaj odszumienia (10 sek) - zapisz plik przed i po operacji
+Nagraj tekst monologu dowolnym urządzeniem i dokonaj odszumienia (10 sek) - zapisz plik przed i po operacji. Dodaj plik monologu do tehj samej strony WWW co ambientowy soundtrack.
 
 
 ### Tools
