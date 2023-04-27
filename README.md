@@ -37,4 +37,4 @@ Nagraj tekst monologu dowolnym urządzeniem i dokonaj odszumienia (10 sek) - zap
 
 DAWID (google)
 WIKTOR (google, github)
-PRZEMEK (google)
+PRZEMEK (google, github)
