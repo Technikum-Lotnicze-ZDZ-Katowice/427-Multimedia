@@ -29,7 +29,7 @@ Zapętlij i umieść na stronie fragment ambientowego soundtracku (5 - 10 sekund
 ZAD042702
 Nagraj tekst monologu dowolnym urządzeniem i dokonaj odszumienia (10 sek) - zapisz plik przed i po operacji. Dodaj plik monologu do tehj samej strony WWW co ambientowy soundtrack.
 
-ZAD04702
+ZAD042703
 Połącz muzykęw tle z efektami dżwiękowymi aby uzyskać sopójny produkt. Skorzystaj ze źródeł stock.
 
 ### Tools
