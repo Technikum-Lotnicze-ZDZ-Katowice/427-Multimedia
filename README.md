@@ -40,6 +40,17 @@ Nagraj tekst monologu dowolnym urządzeniem i dokonaj odszumienia (10 sek) - zap
 ZAD042703
 Połącz muzykęw tle z efektami dżwiękowymi aby uzyskać sopójny produkt. Skorzystaj ze źródeł stock.
 
+ZAD042704
+Dokonaj oryginalnego udźwiękowienia fragmrentu znanego filmu (10-20 sek). 
+1. Pobierz film z You tube lub innego ogólnodostępnego źródła.
+2. Wytnij interesujący Ciebie fragment przy pomocy programu do montażu video
+3. Usuń (wycisz) oryginalną ścieżkę dźwiękową
+4. Dodaj własny materiał stworzony lub pobrany z darmowych źródeł
+   - muzyka w tle
+   - efekty dźwiękowe (strzały uderzenia, kroki, pojazdy)
+   - własny dubbing autorski lub pobrany z darmowych źródeł
+5. Wyeksportuj materiał w rozdzielczości HD oraz zachowaj projekt i pliki źródłowe.
+
 ### Tools
 1. Audacity (https://audacity.en.softonic.com/)
 2. FL Studio
