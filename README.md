@@ -23,20 +23,20 @@
 
 ### III ZADANIA
 
-042701 Zadanie 
+ZAD042701
 Zapętlij i umieść na stronie fragment ambientowego soundtracku (5 - 10 sekund)
 
-042702 Zadanie
+ZAD042702
 Nagraj tekst monologu dowolnym urządzeniem i dokonaj odszumienia (10 sek) - zapisz plik przed i po operacji. Dodaj plik monologu do tehj samej strony WWW co ambientowy soundtrack.
 
+ZAD04702
+Połącz muzykęw tle z efektami dżwiękowymi aby uzyskać sopójny produkt. Skorzystaj ze źródeł stock.
 
 ### Tools
 1. Audacity (https://audacity.en.softonic.com/)
 2. FL Studio
 3. BTN Finder (https://vocalremover.org/key-bpm-finder)
 
-DAWID (google)
-
-WIKTOR (google, github)
-
-PRZEMEK (google, github)
+### Sources
+1. https://freesound.org/
+2. https://pixabay.com/
