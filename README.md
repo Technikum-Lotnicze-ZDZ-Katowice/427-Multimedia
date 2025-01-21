@@ -1,5 +1,13 @@
 # 427-Multimedia
 
+### I Formaty plików dźwiękowych
+
+1. WAV
+2. AIFF
+3. FLAC
+4. OGG
+5. MP3
+
 ### I. Podstawowa obróbka dźwięku.
 
 1. kopiowanie fragmentu utworu do nowej ścieżki / powielenie fragmentu na ścieżce
