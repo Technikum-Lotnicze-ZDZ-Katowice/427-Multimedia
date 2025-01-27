@@ -72,7 +72,8 @@ Zapisz efekt swojej pracy wyeksportowany jako mp4 na dysku google oraz zapisz pl
 Opublikuj film na własnym koncie YouTube, Rumble, Odysee, Banbye lub innym darmowym serwerze wideo.
 
 ### Dodatkowo:
-     - dodaj czołówkę oraz napisy końcowe (tytuł, autorzy, spis użytych ujęć)
+      - dodaj własny komentarz głosowy
+      - dodaj czołówkę oraz napisy końcowe (tytuł, autorzy, spis użytych ujęć)
 
 
 ### Tools
