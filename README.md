@@ -66,9 +66,10 @@ Zmontuj film w formacie HD trwający min 1 min wraz z udźwiękownieniem w oparc
    - filmy/seriale (trailer) [Szymon]
      
 Dodaj efekty i przejścia
+
 Zapisz efekt swojej pracy wyeksportowany jako mp4 na dysku google oraz zapisz plik projektu i ujęcia składowe (jesli są wymagane do otwarcia projektu).
 
-     Dodatkowo:
+### Dodatkowo:
      - dodaj czołówkę oraz napisy końcowe (tytuł, autorzy, spis użytych ujęć)
 
 
