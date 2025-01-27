@@ -53,7 +53,9 @@ Dokonaj oryginalnego udźwiękowienia fragmrentu znanego filmu (10-20 sek).
 
 - ZAD42705
 Zmontuj film w formacie HD trwający min 1 min wraz z udźwiękownieniem w oparciu o darmowe (stockowe) materiały wideo na poniższy temat:
-   - sumersamochody
+   - supersamochody
+   - jachting
+   - sport (wybrana dyscyplina sportowa)
    - samoloty
    - architektura
    - podróźe
@@ -62,10 +64,10 @@ Zmontuj film w formacie HD trwający min 1 min wraz z udźwiękownieniem w oparc
    - Katowice
    - Polska
 Dodaj efekty i przejścia
-Zapisz efekt swojej pracy wyeksportowany jako mp4 na dysku google.
+Zapisz efekt swojej pracy wyeksportowany jako mp4 na dysku google oraz zapisz plik projektu i ujęcia składowe (jesli są wymagane do otwarcia projektu).
 
      Dodatkowo:
-     - dodaj czołówkę oraz tyłówkę w postaci napisów (tytuł, autorzy, spis użytych ujęć)
+     - dodaj czołówkę oraz napisy końcowe (tytuł, autorzy, spis użytych ujęć)
 
 
 ### Tools
