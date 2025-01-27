@@ -31,16 +31,16 @@
 
 ### III ZADANIA
 
-ZAD042701
+- ZAD42701
 Zapętlij i umieść na stronie fragment ambientowego soundtracku (5 - 10 sekund)
 
-ZAD042702
+- ZAD42702
 Nagraj tekst monologu dowolnym urządzeniem i dokonaj odszumienia (10 sek) - zapisz plik przed i po operacji. Dodaj plik monologu do tehj samej strony WWW co ambientowy soundtrack.
 
-ZAD042703
+- ZAD42703
 Połącz muzykęw tle z efektami dżwiękowymi aby uzyskać sopójny produkt. Skorzystaj ze źródeł stock.
 
-ZAD042704
+- ZAD42704
 Dokonaj oryginalnego udźwiękowienia fragmrentu znanego filmu (10-20 sek). 
 1. Pobierz film z You tube lub innego ogólnodostępnego źródła.
 2. Wytnij interesujący Ciebie fragment przy pomocy programu do montażu video
@@ -50,6 +50,23 @@ Dokonaj oryginalnego udźwiękowienia fragmrentu znanego filmu (10-20 sek).
    - efekty dźwiękowe (strzały uderzenia, kroki, pojazdy)
    - własny dubbing autorski lub pobrany z darmowych źródeł
 5. Wyeksportuj materiał w rozdzielczości HD oraz zachowaj projekt i pliki źródłowe.
+
+- ZAD42705
+Zmontuj film w formacie HD trwający min 1 min wraz z udźwiękownieniem w oparciu o darmowe (stockowe) materiały wideo na poniższy temat:
+   - sumersamochody
+   - samoloty
+   - architektura
+   - podróźe
+   - owoce (packshot)
+   - białe szaleństwo
+   - Katowice
+   - Polska
+Dodaj efekty i przejścia
+Zapisz efekt swojej pracy wyeksportowany jako mp4 na dysku google.
+
+     Dodatkowo:
+     - dodaj czołówkę oraz tyłówkę w postaci napisów (tytuł, autorzy, spis użytych ujęć)
+
 
 ### Tools
 1. Audacity (https://audacity.en.softonic.com/)
