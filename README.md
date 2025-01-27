@@ -53,7 +53,7 @@ Dokonaj oryginalnego udźwiękowienia fragmrentu znanego filmu (10-20 sek).
 
 ###ZAD42705
 Zmontuj film w formacie HD trwający min 1 min wraz z udźwiękownieniem w oparciu o darmowe (stockowe) materiały wideo na poniższy temat:
-   - supersamochody
+   - supersamochody [Tomek]
    - jachting
    - sport (wybrana dyscyplina sportowa)
    - samoloty
