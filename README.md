@@ -40,7 +40,7 @@ Nagraj tekst monologu dowolnym urządzeniem i dokonaj odszumienia (10 sek) - zap
 - ZAD42703
 Połącz muzykęw tle z efektami dżwiękowymi aby uzyskać sopójny produkt. Skorzystaj ze źródeł stock.
 
-- ZAD42704
+###ZAD42704
 Dokonaj oryginalnego udźwiękowienia fragmrentu znanego filmu (10-20 sek). 
 1. Pobierz film z You tube lub innego ogólnodostępnego źródła.
 2. Wytnij interesujący Ciebie fragment przy pomocy programu do montażu video
