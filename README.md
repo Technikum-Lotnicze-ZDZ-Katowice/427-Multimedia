@@ -63,6 +63,8 @@ Zmontuj film w formacie HD trwający min 1 min wraz z udźwiękownieniem w oparc
    - białe szaleństwo
    - Katowice
    - Polska
+   - filmy/seriale (trailer)
+     
 Dodaj efekty i przejścia
 Zapisz efekt swojej pracy wyeksportowany jako mp4 na dysku google oraz zapisz plik projektu i ujęcia składowe (jesli są wymagane do otwarcia projektu).
 
