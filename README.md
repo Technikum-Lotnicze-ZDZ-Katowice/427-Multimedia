@@ -104,6 +104,8 @@ FOLDER DOCELOWY:
 
 2_a - https://drive.google.com/drive/folders/14RUnNPNfyAM-3962h9GXlt6wEfeyNeg0?usp=sharing
 
+2_A - https://drive.google.com/drive/folders/1ZtFTfVIyj26MuC-0Zo2PmDpLRLo5GRwb?usp=sharing
+
 
 
 
