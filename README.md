@@ -104,4 +104,7 @@ FOLDER DOCELOWY:
 
 2_a - https://drive.google.com/drive/folders/14RUnNPNfyAM-3962h9GXlt6wEfeyNeg0?usp=sharing
 
+
+
+
 LINK DO GALERII ZDJĘĆ - https://photos.app.goo.gl/5byAHHoRPRewKb4M7
