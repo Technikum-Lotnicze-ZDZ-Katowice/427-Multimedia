@@ -88,3 +88,15 @@ Opublikuj film na własnym koncie YouTube, Rumble, Odysee, Banbye lub innym darm
 
 ### DRIVE
 https://drive.google.com/drive/folders/1-FjqmrU1TCDXMabvKsPrnhcCekDPfjFC?usp=sharing
+
+###ZAD1
+
+Przygotuj montaż filmów z powyższego folderu. WEykorzystaj wyselkekcjonowane ujęcia oraz muzykę stockową (pexels.com)
+
+- Format HD
+- czas trwania: max 30 sek
+
+(nie pobierać i nie wysyłać wszystkich plików na raz z powodu ich dużego rozmiaru)
+
+
+
