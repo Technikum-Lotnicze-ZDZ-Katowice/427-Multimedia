@@ -91,7 +91,7 @@ https://drive.google.com/drive/folders/1-FjqmrU1TCDXMabvKsPrnhcCekDPfjFC?usp=sha
 
 ###ZAD1
 
-Przygotuj montaż filmów z powyższego folderu. WEykorzystaj wyselkekcjonowane ujęcia oraz muzykę stockową (pexels.com)
+Przygotuj montaż filmów z powyższego folderu. Wykorzystaj wyselkekcjonowane ujęcia oraz muzykę stockową (np pixabay.com)
 
 - Format HD
 - czas trwania: max 30 sek
