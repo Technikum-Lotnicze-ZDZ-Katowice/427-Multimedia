@@ -101,4 +101,4 @@ Przygotuj montaż filmów z powyższego folderu. Wykorzystaj wyselkekcjonowane u
 
 1_e - https://drive.google.com/drive/folders/11XycYjXIGGrUwkTPo0wS9cIGp920LpMU?usp=drive_link
 
-
+LINK DO GALERII ZDJĘĆ - https://photos.app.goo.gl/5byAHHoRPRewKb4M7
