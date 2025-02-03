@@ -99,4 +99,6 @@ Przygotuj montaż filmów z powyższego folderu. Wykorzystaj wyselkekcjonowane u
 (nie pobierać i nie wysyłać wszystkich plików na raz z powodu ich dużego rozmiaru)
 
 
+1_e - https://drive.google.com/drive/folders/11XycYjXIGGrUwkTPo0wS9cIGp920LpMU?usp=drive_link
+
 
