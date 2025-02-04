@@ -55,7 +55,7 @@ Dokonaj oryginalnego udźwiękowienia fragmrentu znanego filmu (10-20 sek).
 Zmontuj film w formacie HD (1980x1080 lub 1280x720) trwający minimum 1 minutę (max 2 min) wraz z udźwiękownieniem w oparciu o darmowe (stockowe) materiały wideo na poniższy temat:</b>
    - supersamochody [Tomek]
    - jachting
-   - sport (wybrana dyscyplina sportowa)
+   - sport (wybrana dyscyplina sportowa) [Oskar L.]
    - samoloty [Krzysiek]
    - architektura [Mateusz]
    - podróźe [Oskar]
