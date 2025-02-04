@@ -59,6 +59,7 @@ Zmontuj film w formacie HD trwający minimum 1 minutę (max 2 min) wraz z udźwi
    - samoloty [Krzysiek]
    - architektura [Mateusz]
    - podróźe [Oskar]
+   - nurkowanie [Nazar]
    - owoce (packshot)
    - białe szaleństwo 
    - Katowice [Marek]
