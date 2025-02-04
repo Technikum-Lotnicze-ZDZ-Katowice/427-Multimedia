@@ -52,7 +52,7 @@ Dokonaj oryginalnego udźwiękowienia fragmrentu znanego filmu (10-20 sek).
 5. Wyeksportuj materiał w rozdzielczości HD oraz zachowaj projekt i pliki źródłowe.
 
 <b>ZAD42705
-Zmontuj film w formacie HD trwający minimum 1 minutę (max 2 min) wraz z udźwiękownieniem w oparciu o darmowe (stockowe) materiały wideo na poniższy temat:</b>
+Zmontuj film w formacie HD (1980x1080 lub 1280x720) trwający minimum 1 minutę (max 2 min) wraz z udźwiękownieniem w oparciu o darmowe (stockowe) materiały wideo na poniższy temat:</b>
    - supersamochody [Tomek]
    - jachting
    - sport (wybrana dyscyplina sportowa)
