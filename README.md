@@ -60,9 +60,9 @@ Zmontuj film w formacie HD trwający minimum 1 minutę (max 2 min) wraz z udźwi
    - architektura [Mateusz]
    - podróźe [Oskar]
    - owoce (packshot)
-   - białe szaleństwo
-   - Katowice
-   - Polska
+   - białe szaleństwo 
+   - Katowice [Marek]
+   - Polska [Max]
    - filmy/seriale (trailer) [Szymon]
      
 Dodaj efekty i przejścia
