@@ -70,7 +70,9 @@ Dodaj efekty i przejścia
 
 Zapisz efekt swojej pracy wyeksportowany jako mp4 na dysku google oraz zapisz plik projektu i ujęcia składowe (jesli są wymagane do otwarcia projektu).
 
-Opublikuj film na własnym koncie YouTube, Rumble, Odysee, Banbye lub innym darmowym serwerze wideo.
+Opublikuj film na własnym koncie YouTube, Rumble, Odysee, Banbye lub innym darmowym serwerze wideo. Linbk do filmu zapisz w tym repozytorium.
+
+Wyeksportuj film do swojego folderu na dysku google oraz wykonaj zrzut ekranu z widocznymi ścieżkami audio i video w programie do montażu i zapisz go w folderze z filmem.
 
 ### Dodatkowo:
       - dodaj czołówkę oraz napisy końcowe (tytuł, autorzy, spis użytych ujęć)
