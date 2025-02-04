@@ -75,20 +75,16 @@ Opublikuj film na własnym koncie YouTube, Rumble, Odysee, Banbye lub innym darm
 ### Dodatkowo:
       - dodaj czołówkę oraz napisy końcowe (tytuł, autorzy, spis użytych ujęć)
       - dodaj własny komentarz głosowy
-      
-
 
 ### Tools
 1. Audacity (https://audacity.en.softonic.com/)
 2. FL Studio
 3. BTN Finder (https://vocalremover.org/key-bpm-finder)
 
-### Sources
+### Stocks
 1. https://freesound.org/
 2. https://pixabay.com/
 
-### DRIVE
-https://drive.google.com/drive/folders/1-FjqmrU1TCDXMabvKsPrnhcCekDPfjFC?usp=sharing
 
 ###ZAD1
 
@@ -98,6 +94,12 @@ Przygotuj montaż filmów z powyższego folderu. Wykorzystaj wyselkekcjonowane u
 - czas trwania: max 30 sek
 
 (nie pobierać i nie wysyłać wszystkich plików na raz z powodu ich dużego rozmiaru)
+
+### DRIVE
+
+FOLDER ŹRÓDŁOWY:
+
+https://drive.google.com/drive/folders/1-FjqmrU1TCDXMabvKsPrnhcCekDPfjFC?usp=sharing
 
 FOLDER DOCELOWY:
 
