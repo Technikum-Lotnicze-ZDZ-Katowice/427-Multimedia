@@ -103,6 +103,7 @@ FOLDER ŹRÓDŁOWY:
 
 https://drive.google.com/drive/folders/1-FjqmrU1TCDXMabvKsPrnhcCekDPfjFC?usp=sharing
 
+
 FOLDER DOCELOWY:
 
 1_e - https://drive.google.com/drive/folders/11XycYjXIGGrUwkTPo0wS9cIGp920LpMU?usp=drive_link
@@ -112,6 +113,8 @@ FOLDER DOCELOWY:
 2_A - https://drive.google.com/drive/folders/1ZtFTfVIyj26MuC-0Zo2PmDpLRLo5GRwb?usp=sharing
 
 
-
-
 LINK DO GALERII ZDJĘĆ - https://photos.app.goo.gl/5byAHHoRPRewKb4M7
+
+LINK DO REGULAMINU KONKURSU: https://drive.google.com/drive/folders/1-FjqmrU1TCDXMabvKsPrnhcCekDPfjFC?usp=drive_link
+
+LINK DO WSZYSTKICH FOLDERÓW: https://drive.google.com/drive/folders/1-FjqmrU1TCDXMabvKsPrnhcCekDPfjFC?usp=sharing
