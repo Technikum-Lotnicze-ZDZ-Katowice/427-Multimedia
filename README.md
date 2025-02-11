@@ -92,8 +92,12 @@ Wyeksportuj film do swojego folderu na dysku google oraz wykonaj zrzut ekranu z 
 
 Odtwórz zachowanie responsywne dowolnego video osadzonego na stronie html przedstawione na materiale: VideoPage.mp4 opublikowanego w tym repozytorium. 
 
-Przedstaw stan strony w trzech etapach:
-- Responsywne wideo dla dużych okien przeglądarki
+dowolne video stockowe (o niewielkim rozmiarze) lub https://www.w3schools.com/html/mov_bbb.mp4
+
+Przedstaw stan strony w czterech etapach:
+
+- Usuń kontrolery odtwarzania, "zapętlij" i odtwarzaj automatycznie
+- Ustaw responsywne wideo dla dużych okien przeglądarki
 - wideo o stałej wysokości dla średnich i małych okien
 - zaimplementuj "float window" przyklejone do prawego dolnego narożnika na stronie, na której scoll przekroczy zadaną wielkość (2/3 wysokości wideo)
 
