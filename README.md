@@ -31,16 +31,16 @@
 
 ### III ZADANIA
 
-ZAD42701
+#### ZAD42701
 Zapętlij i umieść na stronie fragment ambientowego soundtracku (5 - 10 sekund)
 
-ZAD42702
+#### ZAD42702
 Nagraj tekst monologu dowolnym urządzeniem i dokonaj odszumienia (10 sek) - zapisz plik przed i po operacji. Dodaj plik monologu do tehj samej strony WWW co ambientowy soundtrack.
 
-ZAD42703
+#### ZAD42703
 Połącz muzykę w tle z efektami dżwiękowymi aby uzyskać sopójny projekt audiowizualny. Skorzystaj ze źródeł stock.
 
-ZAD42704
+#### ZAD42704
 Dokonaj oryginalnego udźwiękowienia fragmrentu znanego filmu (10-20 sek). 
 1. Pobierz film z You tube lub innego ogólnodostępnego źródła.
 2. Wytnij interesujący Ciebie fragment przy pomocy programu do montażu video
@@ -51,7 +51,7 @@ Dokonaj oryginalnego udźwiękowienia fragmrentu znanego filmu (10-20 sek).
    - własny dubbing autorski lub pobrany z darmowych źródeł
 5. Wyeksportuj materiał w rozdzielczości HD oraz zachowaj projekt i pliki źródłowe.
 
-<b>ZAD42705
+#### ZAD42705
 Zmontuj film w formacie HD (1980x1080 lub 1280x720) trwający minimum 1 minutę (max 2 min) wraz z udźwiękownieniem w oparciu o darmowe (stockowe) materiały wideo na poniższy temat:</b>
    - supersamochody [Tomek]
    - jachting
@@ -78,8 +78,6 @@ Wyeksportuj film do swojego folderu na dysku google oraz wykonaj zrzut ekranu z 
       - dodaj czołówkę oraz napisy końcowe (tytuł, autorzy, spis użytych ujęć)
       - dodaj własny komentarz głosowy
 
-### ZAD
-
 ### Tools
 1. Audacity (https://audacity.en.softonic.com/)
 2. FL Studio
@@ -90,9 +88,16 @@ Wyeksportuj film do swojego folderu na dysku google oraz wykonaj zrzut ekranu z 
 2. https://pixabay.com/
 
 
-###ZAD42706
+#### ZAD42706
 
-![image](https://github.com/Technikum-Lotnicze-ZDZ-Katowice/427-Multimedia/VideoPage.mp4)
+Odtwórz zachowanie responsywne dowolnego video osadzonego na stronie html przedstawione na materiale: VideoPage.mp4 opublikowanego w tym repozytorium. 
+
+Przedstaw stan strony w trzech etapach:
+- Responsywne wideo dla dużych okien przeglądarki
+- wideo o stałej wysokości dla średnich i małych okien
+- zaimplementuj "float window" przyklejone do prawego dolnego narożnika na stronie, na której scoll przekroczy zadaną wielkość (2/3 wysokości wideo)
+
+
 
 ## KONKURS "MONTAŻOWY"
 
