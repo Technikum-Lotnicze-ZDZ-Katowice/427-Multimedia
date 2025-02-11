@@ -92,7 +92,7 @@ Wyeksportuj film do swojego folderu na dysku google oraz wykonaj zrzut ekranu z 
 
 ###ZAD42706
 
-VideoPage.mp4
+https://github.com/Technikum-Lotnicze-ZDZ-Katowice/427-Multimedia/VideoPage.mp4
 
 ## KONKURS "MONTAŻOWY"
 
