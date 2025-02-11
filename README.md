@@ -78,6 +78,8 @@ Wyeksportuj film do swojego folderu na dysku google oraz wykonaj zrzut ekranu z 
       - dodaj czołówkę oraz napisy końcowe (tytuł, autorzy, spis użytych ujęć)
       - dodaj własny komentarz głosowy
 
+### ZAD
+
 ### Tools
 1. Audacity (https://audacity.en.softonic.com/)
 2. FL Studio
@@ -88,7 +90,11 @@ Wyeksportuj film do swojego folderu na dysku google oraz wykonaj zrzut ekranu z 
 2. https://pixabay.com/
 
 
-###ZAD1
+###ZAD42706
+
+VideoPage.mp4
+
+## KONKURS "MONTAŻOWY"
 
 Przygotuj montaż filmów z powyższego folderu. Wykorzystaj wyselkekcjonowane ujęcia oraz muzykę stockową (np pixabay.com)
 
@@ -118,3 +124,7 @@ LINK DO GALERII ZDJĘĆ - https://photos.app.goo.gl/5byAHHoRPRewKb4M7
 LINK DO REGULAMINU KONKURSU: https://drive.google.com/drive/folders/1-FjqmrU1TCDXMabvKsPrnhcCekDPfjFC?usp=drive_link
 
 LINK DO WSZYSTKICH FOLDERÓW: https://drive.google.com/drive/folders/1-FjqmrU1TCDXMabvKsPrnhcCekDPfjFC?usp=sharing
+
+
+
+
